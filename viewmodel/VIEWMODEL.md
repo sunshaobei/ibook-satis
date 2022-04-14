@@ -43,7 +43,7 @@ dependencies {
    
    ...
     implementation "io.github.sunshaobei:satis-core:1.0.0"
-    kapt "io.github.sunshaobei"
+    kapt "io.github.sunshaobei:satis-viewmodel-processor:1.0.0"
 }
 
 
